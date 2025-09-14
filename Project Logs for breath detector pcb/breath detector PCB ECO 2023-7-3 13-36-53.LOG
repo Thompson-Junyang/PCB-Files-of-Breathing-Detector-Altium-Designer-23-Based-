@@ -1,0 +1,127 @@
+Added Component: Designator=C1(C 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED 0805G)
+Added Component: Designator=H1(HDR-TH_2P-P2.54-V-M-1)
+Added Component: Designator=H2(HDR-TH_2P-P2.54-V-M-1)
+Added Component: Designator=H3(HDR-TH_2P-P2.54-V-M-1)
+Added Component: Designator=R1(R 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-ADJ-SMD_TC33X-2-104E)
+Added Component: Designator=R3(RES-ADJ-SMD_TC33X-2-104E)
+Added Component: Designator=U1(TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL)
+Added Component: Designator=U2(TO-252-2_L6.6-W6.1-P4.57-LS9.9-TL-CW)
+Added Component: Designator=U3(SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL)
+Added Pin To Net: NetName=ADC6 Pin=U1-19
+Added Net: Name=ADC6
+Added Pin To Net: NetName=ADC7 Pin=U1-22
+Added Net: Name=ADC7
+Added Pin To Net: NetName=AREF Pin=U1-20
+Added Net: Name=AREF
+Added Pin To Net: NetName=AVCC Pin=H1-1
+Added Pin To Net: NetName=AVCC Pin=U1-4
+Added Pin To Net: NetName=AVCC Pin=U1-6
+Added Pin To Net: NetName=AVCC Pin=U1-18
+Added Pin To Net: NetName=AVCC Pin=U3-4
+Added Net: Name=AVCC
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Net: Name=GND
+Added Pin To Net: NetName=LM317_ADJ Pin=R2-2
+Added Pin To Net: NetName=LM317_ADJ Pin=U2-1
+Added Net: Name=LM317_ADJ
+Added Pin To Net: NetName=LM317_IN Pin=C1-1
+Added Pin To Net: NetName=LM317_IN Pin=H2-1
+Added Pin To Net: NetName=LM317_IN Pin=U2-3
+Added Net: Name=LM317_IN
+Added Pin To Net: NetName=MCP6004_NEG Pin=C3-1
+Added Pin To Net: NetName=MCP6004_NEG Pin=H3-2
+Added Pin To Net: NetName=MCP6004_NEG Pin=R3-3
+Added Pin To Net: NetName=MCP6004_NEG Pin=U3-2
+Added Net: Name=MCP6004_NEG
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=PB0 Pin=U1-12
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=U1-13
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=U1-14
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=U1-15
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=U1-16
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=U1-17
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=U1-7
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=U1-8
+Added Net: Name=PB7
+Added Pin To Net: NetName=PC0_ADC0_MCP6004OUT Pin=C3-2
+Added Pin To Net: NetName=PC0_ADC0_MCP6004OUT Pin=R3-2
+Added Pin To Net: NetName=PC0_ADC0_MCP6004OUT Pin=U1-23
+Added Pin To Net: NetName=PC0_ADC0_MCP6004OUT Pin=U3-1
+Added Net: Name=PC0_ADC0_MCP6004OUT
+Added Pin To Net: NetName=PC1 Pin=U1-24
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=U1-25
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=U1-26
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=U1-27
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=U1-28
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=U1-29
+Added Net: Name=PC6
+Added Pin To Net: NetName=PD0 Pin=U1-30
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=U1-31
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=U1-32
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=U1-1
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=R1-1
+Added Pin To Net: NetName=PD4 Pin=U1-2
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=U1-9
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=U1-10
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=U1-11
+Added Net: Name=PD7
+Added Pin To Net: NetName=VREF Pin=C1-2
+Added Pin To Net: NetName=VREF Pin=C2-2
+Added Pin To Net: NetName=VREF Pin=H3-1
+Added Pin To Net: NetName=VREF Pin=R2-3
+Added Net: Name=VREF
+Added Class: Name=breath detector
